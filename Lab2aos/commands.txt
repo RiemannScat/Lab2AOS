@@ -1,0 +1,7 @@
+mov -5
+mov r1
+mov 10010100001010
+inv 1
+inv 1
+inv 0
+inv 0
